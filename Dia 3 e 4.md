@@ -160,8 +160,8 @@ laranja
 <h3 id="exercício-prático">3. <strong>Exercício Prático</strong></h3>
 <p><strong>Tarefa:</strong></p>
 <ul>
-<li>Peça ao aluno para criar uma nova lista de números e usar um loop para somar todos os números da lista.</li>
-<li>O aluno deve exibir o resultado no terminal.</li>
+<li>Criar uma nova lista de números e usar um loop para somar todos os números da lista.</li>
+<li>Deve exibir o resultado no terminal.</li>
 </ul>
 <p><strong>Dica:</strong></p>
 <ul>
