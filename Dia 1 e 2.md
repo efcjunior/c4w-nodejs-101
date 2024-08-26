@@ -98,5 +98,4 @@ Um loop é uma maneira de fazer o programa repetir algo várias vezes.</p>
 <p><strong>Explicação:</strong><br>
 Aqui, temos uma lista de frutas. O loop vai passar por cada fruta na lista e mostrá-la no terminal.</p>
 <hr>
-<p>Esses passos estão organizados de forma clara e simples, ideal para um documento no Google Docs. Assim, o aluno poderá seguir cada etapa de maneira intuitiva e bem detalhada.</p>
 
