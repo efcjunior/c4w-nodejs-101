@@ -1,8 +1,3 @@
----
-
-
----
-
 <hr>
 <h1 id="semana-2-trabalhando-com-módulos-e-npm"><strong>Semana 2: Trabalhando com Módulos e NPM</strong></h1>
 <h3 id="dia-1-módulos-em-node.js---parte-1"><strong>Dia 1: Módulos em Node.js - Parte 1</strong></h3>
