@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Semana 2 - Dia 1 e 2</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><hr>
+---
+
+<hr>
 <h1 id="semana-2-trabalhando-com-módulos-e-npm"><strong>Semana 2: Trabalhando com Módulos e NPM</strong></h1>
 <h3 id="dia-1-módulos-em-node.js---parte-1"><strong>Dia 1: Módulos em Node.js - Parte 1</strong></h3>
 <p><strong>Objetivo do Dia:</strong> Aprender o que são módulos em Node.js, como criar módulos e como importá-los em seu código.</p>
@@ -125,7 +119,4 @@ A subtração de 10 e 5 é: 5
 <hr>
 <h3 id="conclusão"><strong>Conclusão</strong></h3>
 <p>Com esses passos, você aprendeu como criar e usar módulos em Node.js, dividindo seu código em vários arquivos para mantê-lo organizado e fácil de gerenciar. Agora você pode reutilizar esses módulos em diferentes partes do seu projeto, tornando o desenvolvimento mais eficiente e organizado.</p>
-</div>
-</body>
 
-</html>
