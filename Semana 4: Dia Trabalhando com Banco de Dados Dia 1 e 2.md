@@ -3,8 +3,6 @@
 
 ---
 
-<p>Aqui está o passo a passo detalhado para a Semana 4, Dias 1 e 2, focado em introduzir o aluno ao uso de bancos de dados com MongoDB e Node.js, lembrando que o aluno não tem experiência.</p>
-<hr>
 <h1 id="semana-4-trabalhando-com-banco-de-dados"><strong>Semana 4: Trabalhando com Banco de Dados</strong></h1>
 <h3 id="objetivo"><strong>Objetivo:</strong></h3>
 <p>Introduzir o aluno ao uso de bancos de dados com Node.js, usando o MongoDB e a biblioteca Mongoose para realizar operações básicas de CRUD (Create, Read, Update, Delete).</p>
